@@ -1,4 +1,3 @@
-# 在 saving.py 中
 import torch
 
 def epoch_saving(epoch, model, fusion_model, optimizer, model_text, filename):
